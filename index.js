@@ -1,3 +1,4 @@
+import 'env'; 
 var country = document.querySelector('#country');
 var cases = document.querySelector('.total-cases');
 var active = document.querySelector('.active-case');
@@ -41,7 +42,7 @@ var settings = {
 	"method": "GET",
 	"headers": {
 		"x-rapidapi-host": "covid-19-tracking.p.rapidapi.com",
-		"x-rapidapi-key": <KEY-FROM-RAPID-API>, 
+		"x-rapidapi-key": RAPID-API-KEY 
 	}
 }
 
