@@ -41,7 +41,7 @@ var settings = {
 	"method": "GET",
 	"headers": {
 		"x-rapidapi-host": "covid-19-tracking.p.rapidapi.com",
-		"x-rapidapi-key": "e24573e323msh73e6ea15972becep1b9f20jsn7cf73d0fb5b2"
+		"x-rapidapi-key": <KEY-FROM-RAPID-API>, 
 	}
 }
 
