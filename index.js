@@ -1,4 +1,4 @@
-import 'env'; 
+import 'env.js'; 
 var country = document.querySelector('#country');
 var cases = document.querySelector('.total-cases');
 var active = document.querySelector('.active-case');
